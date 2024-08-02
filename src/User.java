@@ -7,6 +7,7 @@ public class User {
         this.password = password;
     }
 
+
     /**
      * Gets the username of the user.
      */
